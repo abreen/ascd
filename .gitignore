@@ -2,5 +2,7 @@
 *.so
 *.o
 *.template
+*.db
+*.sock
 sql/*
 ascd
